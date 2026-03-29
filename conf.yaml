@@ -1,0 +1,6 @@
+folder: problem
+samples:
+    - cases: '[1..1]'
+title:
+    en: Graph Traversal 4236
+version: 2
